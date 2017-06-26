@@ -1,0 +1,11 @@
+{
+  "name": "fullreact",
+  "version": "1.0.0",
+  "description": "Fullstack react app training project. Basically, it's a publishing app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roman Doroshenko",
+  "license": "ISC"
+}
